@@ -20,4 +20,7 @@ public class Card1 {
     }
 
 
+    public int getScore() {
+        return this.value.getScore();
+    }
 }
